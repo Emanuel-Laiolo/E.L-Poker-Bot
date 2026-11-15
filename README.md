@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Poker Bot
-=======
 # Poker Bot By Emanuel Laiolo
->>>>>>> origin/main
 
 ## Description
 A Python-based poker bot designed to play No-Limit Texas Hold'em autonomously, 
@@ -22,8 +18,5 @@ The initial focus will be on implementing a reliable strategy engine. Exploitati
 
 
 ## Project Status
-<<<<<<< HEAD
+
 Planning — Requirements and technical feasibility are being defined.
-=======
-Planning — Requirements and technical feasibility are being defined.
->>>>>>> origin/main
